@@ -64,3 +64,78 @@ body h1 {
     padding-top: 100px;
     padding-right: 200px;
 }
+
+.recipes {
+    text-align: center;
+    font-size: 700;
+
+}
+
+.recipes-item {
+    display: flex;
+    margin-left: 5%;
+    margin-right: 5%;
+
+}
+
+.onethired {
+
+    padding: 1.5%;
+    margin: 2%;
+    border-radius: 7%;
+    box-shadow: 10px 10px 30px rgb(160, 159, 159);
+
+}
+
+.onethired img {
+    width: 100%;
+    border-radius: 7%;
+}
+
+.diet {
+    background-image: url(images/food/diet\ food2.png);
+
+
+}
+
+.diet-item {
+    display: flex;
+    margin-left: 5%;
+    margin-right: 5%;
+
+
+}
+
+.day {
+
+    padding: 1.5%;
+    margin: 2%;
+    border-radius: 7%;
+    box-shadow: 10px 10px 30px rgb(160, 159, 159);
+    background-color: white;
+
+
+}
+
+.fol {
+    margin: 7%;
+    padding: 20%;
+    padding: 20px 40px;
+    border-radius: 30px;
+    box-shadow: 10px 10px 30px rgb(160, 159, 159);
+}
+
+.follower {
+    width: 100%;
+    text-align: center;
+}
+
+footer {
+    padding: 100px;
+    background-color: #0B0D17;
+    text-align: center;
+}
+
+.footer-text {
+    color: white;
+}
